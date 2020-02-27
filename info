@@ -1,0 +1,13 @@
+Things you'll need : 
+  1. Selenium
+  2. Chrome Webdriver
+  
+
+Pipeline of this course :
+1. Load the instagram webpage
+2. Login with your account
+3. Navigate the user you want to search
+4. Follow the user
+5. Surf each of their posts and give it a like simulatenously
+6. Then unfollow the user after giving like
+7. Close the web browser.
