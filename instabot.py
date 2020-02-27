@@ -63,12 +63,8 @@ class Instabot :
         self.driver.close()
 
 
-#account_2
-#bot = Instabot('boo__its__me__2','username2831')
 
-#account_3
-#bot = Instabot('boo__its__me','username2831')
-
+bot = Instabot('abcd','xyz')
 
 #bot.user_navigate('nature_climax')
 bot.like_user_post('nature_climax')
